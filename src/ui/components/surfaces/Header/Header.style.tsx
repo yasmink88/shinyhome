@@ -17,4 +17,6 @@ export const HeaderAppBar = styled(AppBar)`
   }
 `;
 
-export const HeaderLogo = styled("img")``;
+export const HeaderLogo = styled("img")`
+  max-width: 15em;
+`;

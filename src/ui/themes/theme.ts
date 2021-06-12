@@ -4,7 +4,7 @@ const theme = createTheme({
   palette: {
     primary: {
       light: "#9661ff",
-      main: "#d34a89",
+      main: "#00acd1",
       dark: "#581ECD",
     },
     secondary: {
@@ -34,7 +34,7 @@ const theme = createTheme({
     },
   },
   typography: {
-    fontFamily: "Poppins",
+    fontFamily: "Nunito",
   },
   shape: {
     borderRadius: "3px",
